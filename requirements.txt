@@ -4,3 +4,4 @@ numpy
 scikit-learn
 joblib
 streamlit>=1.25.0
+matplotlib>=3.8.0
